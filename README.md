@@ -1,6 +1,6 @@
 # Automated Residue Scale
 
-Automated scale to keep track of the residue disposal of Reforest recycling pick up service users.
+Automated scale to keep track of the residue disposal of Reforest recycling pick up service users. In this proyect I designed the process of data adquisition and guided my student Diego towards building this API
 
 ## REST Service
 
